@@ -127,3 +127,6 @@ footer{
   opacity: 1;
   margin-bottom: 1em;
 }
+.carousel-item p{
+  padding: 0 10%;
+}
